@@ -13,7 +13,7 @@ To run the code examples in this repository, ensure you have Python installed. U
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/machine-learning.git
+   git clone https://github.com/sireesha-16/machine-learning.git
    cd machine-learning
    ```
 
